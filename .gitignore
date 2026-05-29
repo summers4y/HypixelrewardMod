@@ -1,0 +1,8 @@
+build/
+jdk8_temp/
+jdk8.zip
+libs/
+.gradle/
+run/
+*.iml
+.idea/
