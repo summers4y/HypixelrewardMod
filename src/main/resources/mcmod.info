@@ -1,0 +1,13 @@
+[{
+  "modid": "hypixelreward",
+  "name": "Hypixel每日奖励",
+  "description": "自动检测Hypixel每日奖励链接，显示奖励选项并一键领取",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["awaYao"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
